@@ -1,2 +1,2 @@
 # rysunek-techniczny
-praca zaliczeniowa
+praca wykonana na potrzeby zaliczenia przedmiotu 2go roku studiów
