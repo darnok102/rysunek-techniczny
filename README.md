@@ -1,0 +1,2 @@
+# rysunek-techniczny
+praca zaliczeniowa
